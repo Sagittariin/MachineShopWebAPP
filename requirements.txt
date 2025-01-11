@@ -1,6 +1,6 @@
 django
 djangorestframework
-djangorestframework
+djangorestframework-simplejwt
 django-cors-headers
 django-filter
 mysql
